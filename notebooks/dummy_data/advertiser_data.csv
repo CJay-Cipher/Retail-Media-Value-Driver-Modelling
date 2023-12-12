@@ -1,0 +1,51 @@
+advertiser_id,advertiser_name,advertiser_country,advertiser_type,advertiser_size,is_activated,date_registered
+1,Advertiser 1,USA,Vendors,Longtail,True,2022-01-01 00:00:00
+2,Advertiser 2,USA,Sellers,Strategic Accounts,False,2022-01-08 10:17:08
+3,Advertiser 3,UK,Vendors,Emerging Accounts,False,2022-01-15 20:34:17
+4,Advertiser 4,UK,Sellers,Emerging Accounts,False,2022-01-23 06:51:25
+5,Advertiser 5,USA,Non-endemic,Longtail,True,2022-01-30 17:08:34
+6,Advertiser 6,Canada,Vendors,Emerging Accounts,True,2022-02-07 03:25:42
+7,Advertiser 7,Canada,Vendors,Longtail,False,2022-02-14 13:42:51
+8,Advertiser 8,Canada,Sellers,Emerging Accounts,True,2022-02-21 23:59:59
+9,Advertiser 9,UK,Sellers,Emerging Accounts,True,2022-03-01 10:17:08
+10,Advertiser 10,USA,Sellers,Longtail,False,2022-03-08 20:34:17
+11,Advertiser 11,UK,Vendors,Emerging Accounts,True,2022-03-16 06:51:25
+12,Advertiser 12,USA,Sellers,Longtail,True,2022-03-23 17:08:34
+13,Advertiser 13,Canada,Non-endemic,Strategic Accounts,True,2022-03-31 03:25:42
+14,Advertiser 14,Canada,Sellers,Longtail,True,2022-04-07 13:42:51
+15,Advertiser 15,Canada,Sellers,Emerging Accounts,False,2022-04-14 23:59:59
+16,Advertiser 16,USA,Sellers,Strategic Accounts,False,2022-04-22 10:17:08
+17,Advertiser 17,Canada,Non-endemic,Strategic Accounts,True,2022-04-29 20:34:17
+18,Advertiser 18,USA,Sellers,Longtail,True,2022-05-07 06:51:25
+19,Advertiser 19,UK,Sellers,Strategic Accounts,True,2022-05-14 17:08:34
+20,Advertiser 20,Canada,Vendors,Longtail,True,2022-05-22 03:25:42
+21,Advertiser 21,UK,Vendors,Emerging Accounts,False,2022-05-29 13:42:51
+22,Advertiser 22,UK,Sellers,Longtail,False,2022-06-05 23:59:59
+23,Advertiser 23,USA,Vendors,Strategic Accounts,True,2022-06-13 10:17:08
+24,Advertiser 24,UK,Sellers,Longtail,True,2022-06-20 20:34:17
+25,Advertiser 25,USA,Sellers,Longtail,True,2022-06-28 06:51:25
+26,Advertiser 26,USA,Non-endemic,Emerging Accounts,True,2022-07-05 17:08:34
+27,Advertiser 27,UK,Sellers,Longtail,False,2022-07-13 03:25:42
+28,Advertiser 28,USA,Vendors,Emerging Accounts,True,2022-07-20 13:42:51
+29,Advertiser 29,USA,Vendors,Strategic Accounts,True,2022-07-27 23:59:59
+30,Advertiser 30,USA,Vendors,Strategic Accounts,False,2022-08-04 10:17:08
+31,Advertiser 31,UK,Vendors,Longtail,True,2022-08-11 20:34:17
+32,Advertiser 32,USA,Sellers,Longtail,False,2022-08-19 06:51:25
+33,Advertiser 33,Canada,Non-endemic,Strategic Accounts,False,2022-08-26 17:08:34
+34,Advertiser 34,UK,Non-endemic,Strategic Accounts,True,2022-09-03 03:25:42
+35,Advertiser 35,UK,Sellers,Strategic Accounts,False,2022-09-10 13:42:51
+36,Advertiser 36,USA,Vendors,Longtail,True,2022-09-18 00:00:00
+37,Advertiser 37,UK,Non-endemic,Strategic Accounts,True,2022-09-25 10:17:08
+38,Advertiser 38,Canada,Non-endemic,Longtail,False,2022-10-02 20:34:17
+39,Advertiser 39,UK,Sellers,Strategic Accounts,False,2022-10-10 06:51:25
+40,Advertiser 40,UK,Vendors,Strategic Accounts,False,2022-10-17 17:08:34
+41,Advertiser 41,UK,Non-endemic,Longtail,True,2022-10-25 03:25:42
+42,Advertiser 42,USA,Sellers,Emerging Accounts,True,2022-11-01 13:42:51
+43,Advertiser 43,Canada,Non-endemic,Longtail,True,2022-11-08 23:59:59
+44,Advertiser 44,Canada,Non-endemic,Emerging Accounts,True,2022-11-16 10:17:08
+45,Advertiser 45,Canada,Vendors,Longtail,True,2022-11-23 20:34:17
+46,Advertiser 46,UK,Vendors,Emerging Accounts,False,2022-12-01 06:51:25
+47,Advertiser 47,Canada,Non-endemic,Emerging Accounts,False,2022-12-08 17:08:34
+48,Advertiser 48,USA,Vendors,Emerging Accounts,False,2022-12-16 03:25:42
+49,Advertiser 49,UK,Non-endemic,Longtail,True,2022-12-23 13:42:51
+50,Advertiser 50,USA,Non-endemic,Longtail,True,2022-12-31 00:00:00

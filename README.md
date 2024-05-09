@@ -1,89 +1,35 @@
-# {{project_name}}
+# Retain Media Value Driver Modelling
 
-## Project description
+Retain Media Value Driver Modelling is a simple application designed to visualize the performance of Retail Media for a retailer. The application provides insights into the various levers that are driving revenue. It presents a PowerBI dashboard that showcases supply and demand metrics, allowing users to analyze historical data, make predictions, and provides recommendations.
 
-- *Include a short paragraph about the project and the code artefacts in this project.*
-- *Provide any relevant external links, e.g. to Notion, your S3 bucket, etc.*
+## Features
 
-## Team Members
+- Supply Metrics: The application displays various supply metrics that are crucial for understanding the performance of Retail Media. This includes data on inventory, ad placements, and available media space.
 
-- Team Member Name 1
-- Team Member Name 2
-- ...
+- Demand Metrics: The application also provides insights into demand metrics, enabling users to understand the effectiveness of Retail Media in driving customer engagement and conversions. This includes data on impressions, clicks, conversions, and revenue generated.
 
-## Environment
+- Historical Analysis: Users can explore historical data through interactive visualizations and charts. This allows for a comprehensive analysis of how different factors have influenced the performance of Retail Media over time.
 
-It's highly recommended to use a virtual environment for your project, there are many ways to do this,
-below we have provided one example of how this can be achieved. Ensure when working on your project
-to keep this section up-to-date so if anyone needs to run your code they know the exact steps needed
-to get the appropriate environment ready. A person should be able to clone your repo and get up and
-running with the instructions provided here.
+- Predictive Analytics: The application leverages predictive modeling techniques to forecast future performance. Users can view predicted trends and make informed decisions based on projected outcomes.
 
-### Setup - you only need to do this once
+- Recommendations: Based on the analysis and predictions, the application provides recommendations to optimize the performance of Retail Media. These recommendations can help retailers make data-driven decisions to improve revenue generation and customer engagement.
 
-```bash
-# make sure your pip in your base Python installation is up-to-date
-python3 -m pip install -U pip
-# install the virtualenv package
-python3 -m pip install virtualenv
-```
+## Getting Started
 
-### Create the virtual environment - also typically only run when needed
+To get started with the Retain Media Value Driver Modelling application, follow these steps:
 
-```bash
-# create a virtual environment in this directory called '.venv'
-python3 -m venv .venv
-# you should now see the folder `.venv` in your repo
-```
+1. Clone the repository to your local machine.
+2. Set up the required dependencies and environment (if any).
+3. Import the provided dataset into the PowerBI tool.
+4. Open the PowerBI project file (.pbix) to access the Retail Media Value Driver Modelling dashboard.
+5. Explore the various visualizations and interact with the dashboard to gain insights into the performance of Retail Media.
+6. Analyze historical data, view predictions, and consider the recommendations to optimize revenue generation.
 
-### This is how you activate the virtual environment in a terminal and install the project dependencies
 
-```bash
-# activate the virtual environment
-source .venv/bin/activate
-# install the requirements for this project
-pip install -r requirements.txt
-```
+## Dataset
 
-## Tests
+The Retain Media Value Driver Modelling application utilizes a dataset that simulates real-world retail media information. This dataset was generated using dummy data obtained from the advertisement team, ensuring that it accurately represents a realistic scenario. It is important to note that the dataset used within the application is not derived from actual retail media data but has been carefully crafted to reflect industry-standard metrics and trends.
 
-It's highly recommended to get in the habit of writing tests, especially once you've identified something
-concrete that you can refactor into a reusable bit of code. This project has been seeded with a minimal
-working example of a [refactored function](src/data/make_dataset.py),
-[a notebook that can import this code](notebooks/0.0-example.ipynb) and
-[a unit test to test the code behaves as expected](tests/test_make_dataset.py).
+By employing this synthetic dataset, the application allows users to explore and analyze the performance of Retail Media in a controlled environment, enabling them to make informed decisions based on the insights gained. The use of dummy data ensures the privacy and confidentiality of sensitive information while still providing an accurate representation of the factors influencing revenue generation and customer engagement.
 
-You can execute tests from the terminal by running `pytest`. IDEs like VSCode have built-in support for
-executing and debugging tests through the "Testing" menu.
-
-## Project Organisation
-
-```ascii
-├── LICENSE            <- Contains information about the legal terms and conditions under which
-|                         the code can be used.
-|
-├── README.md          <- The top-level README for developers using this project.
-│
-├── docs               <- Use markdown. If/when the project becomes more complex consider migrating
-|                         to something like pdoc or sphinx depending on the nature of the project.
-|                         Think carefully about what documentation should sit alongside the code
-|                         and what you can rather include in docstrings.
-│
-├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering), and a
-│                         short `-` delimited description, e.g. `1.0-initial-data-exploration`.
-|                         Refactor the good parts. Don't write code to do the same task in multiple
-|                         notebooks. If it's a data preprocessing task, put it in a file like
-|                         `src/data/make_dataset.py`. If it's useful utility code, refactor it to
-|                         `src` and import accordingly. Only commit clean notebooks (clear all cell outputs).
-│
-├── requirements.txt   <- The requirements file for reproducing the environment.
-|
-├── src                <- Source code. Refactor clean, re-usable code here.
-│   │
-│   ├── data           <- Separate your code base into logical groups, e.g. data, features, models, visualisation, etc.
-│   │   └── make_dataset.py
-│   └── ...
-|
-├── tests              <- Unit tests. Filename should start with "test_".
-    └── test_make_dataset.py
-```
+Please be aware that the dataset generated in this application is solely intended for demonstration and analytical purposes and does not contain any actual sensitive or identifiable information.

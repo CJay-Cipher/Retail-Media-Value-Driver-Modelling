@@ -1,8 +1,9 @@
 # Retain Media Value Driver Modelling
 
-Retain Media Value Driver Modelling is a simple application designed to visualize the performance of Retail Media for a retailer. The application provides insights into the various levers that are driving revenue. It presents a PowerBI dashboard that showcases supply and demand metrics, allowing users to analyze historical data, make predictions, and provides recommendations.
+Retain Media Value Driver Modelling is an interactive PowerBI dashboard designed to visualize the performance of Retail Media for a retailer. The dashboard provides insights into the various levers that are driving revenue. It showcases supply and demand metrics, allowing users to analyze historical data, make predictions, and provides recommendations.
 
 ## Features
+Below is the screenshots for the supply and demand page of the dashboard;
 
 - __Supply Metrics:__ The application displays various supply metrics that are crucial for understanding the performance of Retail Media. This includes data on inventory, ad placements, and available media space.
 

@@ -4,9 +4,13 @@ Retain Media Value Driver Modelling is a simple application designed to visualiz
 
 ## Features
 
-- Supply Metrics: The application displays various supply metrics that are crucial for understanding the performance of Retail Media. This includes data on inventory, ad placements, and available media space.
+- __Supply Metrics:__ The application displays various supply metrics that are crucial for understanding the performance of Retail Media. This includes data on inventory, ad placements, and available media space.
 
-- Demand Metrics: The application also provides insights into demand metrics, enabling users to understand the effectiveness of Retail Media in driving customer engagement and conversions. This includes data on impressions, clicks, conversions, and revenue generated.
+<img src="Supply page.png" alt="Supply Metrics" width="1000">
+
+- __Demand Metrics:__ The application also provides insights into demand metrics, enabling users to understand the effectiveness of Retail Media in driving customer engagement and conversions. This includes data on impressions, clicks, conversions, and revenue generated.
+
+<img src="Demand page.png" alt="Demand Metrics" width="1000">
 
 - Historical Analysis: Users can explore historical data through interactive visualizations and charts. This allows for a comprehensive analysis of how different factors have influenced the performance of Retail Media over time.
 
@@ -24,7 +28,6 @@ To get started with the Retain Media Value Driver Modelling application, follow 
 4. Open the PowerBI project file (.pbix) to access the Retail Media Value Driver Modelling dashboard.
 5. Explore the various visualizations and interact with the dashboard to gain insights into the performance of Retail Media.
 6. Analyze historical data, view predictions, and consider the recommendations to optimize revenue generation.
-
 
 ## Dataset
 
